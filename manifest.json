@@ -1,7 +1,7 @@
 {
-  "short_name": "Goose Finance",
-  "name": "Goose Finance",
-  "description": "Farm EGG with LP Tokens",
+  "short_name": "PolyFly",
+  "name": "PolyFly",
+  "description": "Farm FLY with LP Tokens",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,6 +11,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ff0000",
+  "background_color": "#000000"
 }
