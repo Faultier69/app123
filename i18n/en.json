@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using FLY-BNB LP tokens, which means you need to stake equal amounts of FLY and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using FLY-MATIC LP tokens, which means you need to stake equal amounts of FLY and MATIC in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get FLY-BNB LP >"
+        "text": "Get FLY-MATIC LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Goose Finance burns the FLY."
+        "text": "The project gets the MATIC, PolyFLY Finance burns the FLY."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with Goose Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with PolyFLY Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -753,13 +753,13 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Goose Finance"
+        "text": "PolyFly"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "Top 3 best DEFI app on Binance Smart Chain."
+        "text": "PolyinsertanimalherePolyFLYfork"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy FLY and BNB tokens"
+        "text": "Buy FLY and MATIC tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get FLY-BNB LP tokens by adding FLY and BNB liquidity"
+        "text": "Get FLY-MATIC LP tokens by adding FLY and MATIC liquidity"
       }
     },
     {
